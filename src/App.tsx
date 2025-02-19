@@ -1,4 +1,3 @@
-import './App.css'
 import SearchIcon from './components/icons/SearchIcon'
 import Input from './components/ui/Input'
 
